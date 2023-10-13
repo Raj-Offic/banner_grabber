@@ -20,11 +20,3 @@ else :
     
     print('\n'+'the ip_address of - '+sys.argv[1] +' is '+ ip+'\n')
 
-
-'''
-
-r = requests.get('https://api.github.com/events')
-print(r.url)
-
-
-'''
